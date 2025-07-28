@@ -13,7 +13,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=suadevv&theme=radical_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suadevv&theme=radical_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Sade's GitHub stats](https://github-readme-stats.vercel.app/api?username=suadevv&show_icons=true&theme=radical)
+[](https://github-readme-stats.vercel.app/api?username=suadevv&show_icons=true&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suadevv&icon=0&color=0)](https://visitcount.itsvg.in)
