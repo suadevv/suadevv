@@ -1,4 +1,4 @@
-## Hi, I'm suadev! 👋 
+# Hi, I'm suadev! 👋 
 
 <br><br>👩‍💻 Software Engineer building Flutter-powered SaaS tools for niche businesses<br>📱 2.5 years crafting cross-platform apps (iOS · Android · Web)<br>🚀 Passionate about automating workflows & surfacing data-driven insights<br>🌱 #BuildInPublic: sharing my journey, learnings & code snippets<br>💭 Currently exploring AI-driven features & scalable Flutter architectures<br><br>
 
@@ -12,6 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=suadevv&theme=radical_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=suadevv&theme=radical_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suadevv&theme=radical_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+https://github-readme-stats.vercel.app/api?username=suadevv&show_icons=true&theme=radical
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suadevv&icon=0&color=0)](https://visitcount.itsvg.in)
