@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suadevv&show_icons=true&theme=radical)
 
-![](https://nirzak-streak-stats.vercel.app/?user=suadevv&theme=radical_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=suadevv&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suadevv&theme=radical_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
