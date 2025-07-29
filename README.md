@@ -1,11 +1,12 @@
 # Hi, I'm suadev! 👋 
 
-<br><br>👩‍💻 Software Engineer building Flutter-powered SaaS tools for niche businesses<br>📱 2.5 years crafting cross-platform apps (iOS · Android · Web)<br>🚀 Passionate about automating workflows & surfacing data-driven insights<br>🌱 #BuildInPublic: sharing my journey, learnings & code snippets<br>💭 Currently exploring AI-driven features & scalable Flutter architectures<br><br>
+<br><br>👩‍💻 Software Engineer building Flutter-powered SaaS tools for niche businesses<br>📱 2.5 years crafting cross-platform apps (iOS · Android · Web)<br>🚀 Passionate about automating workflows & surfacing data-driven insights<br>🌱 #BuildInPublic: sharing my journey, learnings & code snippets<br>💭 Currently exploring AI-driven features & scalable Flutter architectures<br><be<br/>![](https://github-readme-stats.vercel.app/api?username=suadevv&show_icons=true&theme=radical)</br>>
+
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suadev._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suadev-6949a5376/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suadevv_) 
-<br/>![](https://github-readme-stats.vercel.app/api?username=suadevv&show_icons=true&theme=radical)</br>
+
 
 
 # 💻 Tech Stack:
