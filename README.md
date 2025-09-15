@@ -1,6 +1,6 @@
 # Hi, I'm Sade! 👋 
 
-<br><br>👩‍💻 Software Engineer specializing in iOS and mobile app development<br>📱 5 years crafting cross-platform apps (iOS · Android · Web)<br>🚀 Passionate about automating workflows & surfacing data-driven insights<br>🌱 Sharing my journey, learnings & code snippets<br>💭 Currently exploring latest iOS features and development tools<br>
+<br><br>👩‍💻 Software Engineer specializing in iOS and mobile app development<br>📱 2 years crafting cross-platform apps (iOS · Android · Web)<br>🚀 Passionate about automating workflows & surfacing data-driven insights<br>🌱 Sharing my journey, learnings & code snippets<br>💭 Currently exploring latest iOS features and development tools<br>
 <br/>![](https://github-readme-stats.vercel.app/api?username=suadevv&show_icons=true&theme=radical)</br>
 
 
