@@ -2,7 +2,7 @@
 
 <br><br>
 - 🔐 Security engineer focused on identity and access management (IAM)
-- 🧠 Software engineering background: 2 years building production iOS apps with real-world authentication and session handling
+- 🧠 Software engineering background: 2 years building production iOS apps, integrating third-party and backend APIs
 - 🛡️ Deep in IAM and PAM: authentication, authorization, least privilege, and access governance
 - 📚 Studying for Security+, SC-300, and Okta certifications
 - ✍️ Documenting what I learn through labs and write-ups
