@@ -32,8 +32,8 @@
 ![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Azure IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CyberArk](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CyberArk](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=cyberark&logoColor=white)
 
 **Languages**
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
